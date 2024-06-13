@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil :blue_heart
 
-Meu nome é Marcelo Paludetto
+Meu nome é Sergio Amancio 
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
@@ -8,8 +8,8 @@ Meu nome é Marcelo Paludetto
 
 ### Você pode entrar em contato comigo :mailbox
 
-paludettomarcelo@gmail.com
+00001089882774sp@al.educacao.sp.gov.br
 
-@marcelopaludetto
+@usilvix
 
 ![descrição do GIF](link GIF do Tenor)
