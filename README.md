@@ -1,2 +1,1 @@
-# li-ao
-Projeto 2 Alura
+Apresentação inicial Sérgio
